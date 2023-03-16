@@ -1,6 +1,6 @@
 # Sobre 
 
-Animeland é um aplicativo voltado a comunidade otaku, um aplicativo mobile que permite ler mangás e assistir animes.
+Softroll é um aplicativo voltado a comunidade otaku, um aplicativo mobile que permite ler mangás e assistir animes.
 
 # Execução
 
@@ -29,7 +29,11 @@ Esse aplicativo foi desenvolvido em React Native, utilizando Expo. Para executar
 
 
 <div>
- <img src="https://github.com/jeronimo3875br/Animeland/blob/master/assets/images/screens/screen1.png" width="250" />
+ <img src="https://github.com/jeronimo3875br/Softroll/blob/master/assets/images/screens/screen1.jpeg" width="250" />
+ <img src="https://github.com/jeronimo3875br/Softroll/blob/master/assets/images/screens/screen2.jpeg" width="250" />
+</div>
 
- <img src="https://github.com/jeronimo3875br/Animeland/blob/master/assets/images/screens/screen11.png" width="250" />
+<div>
+ <img src="https://github.com/jeronimo3875br/Softroll/blob/master/assets/images/screens/screen3.jpeg" width="250" />
+ <img src="https://github.com/jeronimo3875br/Softroll/blob/master/assets/images/screens/screen4.jpeg" width="250" />
 </div>
