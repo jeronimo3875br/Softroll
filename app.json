@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "Softroll",
+    "slug": "softroll",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#212121"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ad8f67"
+      },
+      "package": "com.codeexp.softroll"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3570fe52-9d9c-49bb-b897-1f1f54a4b83b"
+      }
+    },
+    "owner": "jeronimo3875br",
+    "androidNavigationBar": {
+      "visible": false,
+      "barStyle": "light",
+      "backgroundColor": "#212121"
+    }
+  },
+  "androidNavigationBar": {
+    "visible": false,
+    "barStyle": "light",
+    "backgroundColor": "#212121"
+  }
+}
